@@ -1,0 +1,30 @@
+div{
+    margin: 30px;
+}
+.search-button{
+    color: rgb(48, 140, 143);
+    height: 30px;
+    width: 140px;
+    border: 1px solid rgb(48, 140, 143);
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.add-button{
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 50%;
+    border:none;
+    color: white;
+    background-color: rgb(111, 218, 182);
+}
+.account-button{
+    width: 180px;
+    height: 40px;
+    border: 2px solid black;
+    font-size: 16px;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    box-shadow: 4px 5px black;
+}
